@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: io.realm:realm-android-library-object-server:10.0.0-BETA.8@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6bac324c110e0f52fbbccff37eff403a/jetified-realm-android-library-object-server-10.0.0-BETA.8/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/92df0eeb66e582689e472c6fb8679563/transformed/jetified-realm-android-library-object-server-10.0.0-BETA.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/92df0eeb66e582689e472c6fb8679563/transformed/jetified-realm-android-library-object-server-10.0.0-BETA.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/92df0eeb66e582689e472c6fb8679563/transformed/jetified-realm-android-library-object-server-10.0.0-BETA.8/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/10.0.0-BETA.8/fdac94055acce0c397040940910aa906614c280b/realm-android-library-object-server-10.0.0-BETA.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/10.0.0-BETA.8/3254543cb9fe663e4dc2808457d9a8c801e1dfae/realm-android-library-object-server-10.0.0-BETA.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
