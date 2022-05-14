@@ -1,5 +1,7 @@
 # GPSTracking
 
+GPS Tracking emulation Application
+
 Project was created and written by Mohammed
 
 Main Activity can be found in the following path:
